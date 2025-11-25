@@ -32,9 +32,11 @@ Advanced system design, cloud architecture, and diving deeper into Go for high-p
 
 ## 📊 GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EternalKnight002&show_icons=true&theme=radical&hide_border=true&count_private=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EternalKnight002&layout=compact&theme=radical&hide_border=true)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EternalKnight002&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EternalKnight002&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ## 🎯 What I'm Up To
 
