@@ -30,14 +30,6 @@ Advanced system design, cloud architecture, and diving deeper into Go for high-p
 - **[Todo CLI](https://github.com/EternalKnight002/todo-cli)** - Command-line todo application built with Go
 - **[Portfolio](https://github.com/EternalKnight002/my-portfolio)** - Personal portfolio website
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EternalKnight002&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EternalKnight002&layout=compact&theme=radical&hide_border=true&v=1)
-
 ## 🎯 What I'm Up To
 
 - 🔨 Building projects that solve real-world problems
