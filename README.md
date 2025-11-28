@@ -24,11 +24,11 @@ Advanced system design, cloud architecture, and diving deeper into Go for high-p
 
 ## 🔥 Featured Projects
 
-- **[NotebookLM PDF Exporter](https://github.com/EternalKnight002/notebooklm-pdf-exporter)** - Automation tool for exporting content from NotebookLM
+- **[Extension Mrketplace](https://github.com/EternalKnight002/extension-marketplace.git)** - website for all of the extensions that i made
 - **[Music Sync](https://github.com/EternalKnight002/music-sync)** - Music synchronization application
-- **[MERN Dashboard](https://github.com/EternalKnight002/mern-dashboard-backend)** - Full-stack dashboard with backend API
-- **[Todo CLI](https://github.com/EternalKnight002/todo-cli)** - Command-line todo application built with Go
-- **[Portfolio](https://github.com/EternalKnight002/my-portfolio)** - Personal portfolio website
+- **[SkillMatch AI](https://github.com/EternalKnight002/SkillMatchAI.git)** - An AI model to scan resumes on a job description to find suitable candidates
+- **[Student Productivity](https://github.com/EternalKnight002/student-productivity-app.git)** - A mobile app to take notes,plan days & manage expenses
+- **[Terminal History](https://github.com/EternalKnight002/terminalHistory.git)** - A VS Code extension to copy error and problems from terminal
 
 ## 🎯 What I'm Up To
 
