@@ -14,10 +14,10 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 ## 💻 Tech Stack
 
 **Languages & Frameworks:**  
-JavaScript • TypeScript • Go • Node.js • React • MERN Stack
+JavaScript • TypeScript • Java • Python • Go • Node.js • React • MERN Stack • NextJs • NestJs • Spring Boot
 
 **Tools & Platforms:**  
-Git • Vercel • MongoDB • Express.js
+Git • Vercel • Postman • GitHub • ThunderClient • Vs Code • IntelliJIdea • Docker • AWS • AZURE • GCP
 
 **Currently Learning:**  
 Advanced system design, cloud architecture, and diving deeper into Go for high-performance applications
