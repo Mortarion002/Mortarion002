@@ -1,6 +1,6 @@
 # Hey there, I'm Aman Kumar 👋
 
-**Full-Stack Developer | Building scalable solutions with modern technologies**
+**Full Stack & Cloud-Native Developer | Building scalable solutions with modern technologies**
 
 📍 Based in Kanpur, Uttar Pradesh, India  
 🔗 [Portfolio](https://my-portfolio-aky-iot3a-18.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/aman-kumar-537a73296) • [X/Twitter](https://x.com/Eternalknigh)
