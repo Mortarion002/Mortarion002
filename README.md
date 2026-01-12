@@ -30,9 +30,6 @@ Advanced system design, cloud architecture, and diving deeper into Go for high-p
 - **[Student Productivity](https://github.com/EternalKnight002/student-productivity-app.git)** - A mobile app to take notes,plan days & manage expenses
 - **[Terminal History](https://github.com/EternalKnight002/terminalHistory.git)** - A VS Code extension to copy error and problems from terminal
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EternalKnight002&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ## 🎯 What I'm Up To
 
