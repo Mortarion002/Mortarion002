@@ -1,25 +1,43 @@
 # Hey there, I'm Aman Kumar 👋
 
-Full Stack & Cloud-Native Developer building scalable solutions with modern technologies.
-
-📍 Kanpur, Uttar Pradesh, India
+Full Stack Developer & AI Engineer exploring the intersection of scalable systems and intelligent agents.
 
 ---
 
-## 🚀 About Me
+## 💻 Tech Stack
 
-I'm a passionate developer who loves turning ideas into reality through code. I enjoy working across the full stack, from crafting intuitive frontends to building robust backend systems. Always exploring new technologies and best practices to create impactful solutions.
-
-## 🎯 What I'm Up To
-
-- 🔨 Building projects that solve real-world problems
-- 📚 Constantly learning and improving my craft
-- 🤝 Open to collaborating on interesting projects
-- 💡 Exploring the intersection of developer tools and automation
+**Languages:** JavaScript • TypeScript • Java • Python • Go  
+**Frontend:** React • Next.js  
+**Backend:** Node.js • NestJS • Spring Boot • Express  
+**Mobile:** React Native • Expo  
+**AI/ML:** LangChain • Hugging Face • RAG • MCP  
+**Databases:** MongoDB • PostgreSQL • MySQL  
+**Cloud & Tools:** Docker • AWS • GCP • Git
 
 ---
 
-## 📫 Let's Connect!
+## 🚀 What I Do
+
+Building end-to-end applications across the full stack, from intuitive frontends to robust backend systems. Currently diving deep into agentic AI, designing intelligent workflows with RAG, LangChain, and MCP to create AI-powered solutions that solve real problems.
+
+**Focus Areas:**
+- Full stack web applications with modern JavaScript/TypeScript
+- AI agents and intelligent workflow design
+- Scalable backend systems and microservices
+- Cloud-native application development
+
+---
+
+## 🎯 Currently
+
+- Building projects that solve real-world problems
+- Exploring agentic AI and intelligent workflow design
+- Learning advanced RAG implementations and MCP
+- Open to collaborating on interesting projects
+
+---
+
+## 📫 Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
