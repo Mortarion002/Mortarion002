@@ -4,18 +4,6 @@ Full Stack Developer & AI Engineer exploring the intersection of scalable system
 
 ---
 
-## 💻 Tech Stack
-
-**Languages:** JavaScript • TypeScript • Java • Python • Go  
-**Frontend:** React • Next.js  
-**Backend:** Node.js • NestJS • Spring Boot • Express  
-**Mobile:** React Native • Expo  
-**AI/ML:** LangChain • Hugging Face • RAG • MCP  
-**Databases:** MongoDB • PostgreSQL • MySQL  
-**Cloud & Tools:** Docker • AWS • GCP • Git
-
----
-
 ## 🚀 What I Do
 
 Building end-to-end applications across the full stack, from intuitive frontends to robust backend systems. Currently diving deep into agentic AI, designing intelligent workflows with RAG, LangChain, and MCP to create AI-powered solutions that solve real problems.
