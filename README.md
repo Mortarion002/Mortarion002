@@ -20,17 +20,14 @@ I'm an AI Engineer focused on designing intelligent, agentic workflows and advan
 * **[student-productivity-app-landingPage](https://github.com/Mortarion002/student-productivity-app-landingPage)** - A website for my Student Productivity App.
 * **[Hospital-management](https://github.com/Mortarion002/Hospital-management)** - A robust Hospital Management System built with Spring Boot, Data JPA, and PostgreSQL. Features secure JWT & OAuth2 authentication.
 * **[Inventory-Management](https://github.com/Mortarion002/Inventory-Management)** - Full-stack Inventory Management System built with Spring Boot & Angular. Features JWT authentication, role-based access, and interactive dashboards.
-* **[FitnessAI-SpringBoot](https://github.com/Mortarion002/FitnessAI-SpringBoot)** - A modular, full-stack Fitness Tracker application designed using a microservices architecture. Leverages Spring Boot and React.js.
 * **[ECOSNAP](https://github.com/Mortarion002/ECOSNAP)** - AI-powered web app that predicts the environmental impact (CO2 & recyclability) of common waste materials.
 * **[SkillMatchAI](https://github.com/Mortarion002/SkillMatchAI)** - A full-stack AI web application that ranks resumes against job descriptions using TF-IDF vectorization. Built with Flask and Tailwind CSS.
 * **[To-Do-Prisma-pgsql-docker](https://github.com/Mortarion002/To-Do-Prisma-pgsql-docker)** - Full-stack todo app with JWT auth, Node.js, Express, PostgreSQL, Prisma ORM, and Docker support.
 * **[PulseAIR](https://github.com/Mortarion002/PulseAIR)** - A cinematic 3D product landing page for TWS earbuds featuring high-performance canvas scrollytelling. Built with Next.js 15.
 * **[mini-blog-app](https://github.com/Mortarion002/mini-blog-app)** - A modern, dark-themed personal blog built from scratch with Vanilla JavaScript and Firebase.
 * **[To-Do](https://github.com/Mortarion002/To-Do)** - A lightweight, full-stack Todo application built with Node.js, Express, and SQLite.
-* **[mern-dashboard-backend](https://github.com/Mortarion002/mern-dashboard-backend)** - This repository contains the backend logic of my MERN dashboard.
 * **[fast-api](https://github.com/Mortarion002/fast-api)** - Learning FastAPI by building a campaign management API with SQLModel.
 * **[tasks-nestJs](https://github.com/Mortarion002/tasks-nestJs)** - A simple backend api that manages task. Build using NestJs.
-* **[repo-mind](https://github.com/Mortarion002/repo-mind)** - AI-powered semantic search over GitHub repositories (README-level). Query in natural language and get curated, summarized repo cards.
 * **[mock-mcp](https://github.com/Mortarion002/mock-mcp)** - A mock mcp tool to learn mcp architecture and lifecycle.
 * **[Sentiment_analysis](https://github.com/Mortarion002/Sentiment_analysis)** - Sentiment Analysis on IMDB dataset.
 * **[article-highlighter](https://github.com/Mortarion002/article-highlighter)** - An extension for highlighting text on web pages, adding notes, and exporting your research.
