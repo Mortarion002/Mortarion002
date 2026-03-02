@@ -15,7 +15,8 @@ I'm an AI Engineer focused on designing intelligent, agentic workflows and advan
 ---
 * **[Agentic_AI-Langchain-Langgraph](https://github.com/Mortarion002/Agentic_AI-Langchain-Langgraph)** - Made using Langgraph and Langchain.
 * **[Langsmith-learn](https://github.com/Mortarion002/Langsmith-learn)** - Made to learn about LLM_OPS and LangSmith for monitoring, observability.
-* **[student-productivity-app](https://github.com/Mortarion002/student-productivity-app)** - An all in one app for students to manage their expenses, to make notes and to plan their tasks. Made using react-native and expo. 
+* **[student-productivity-app](https://github.com/Mortarion002/student-productivity-app)** - An all in one app for students to manage their expenses, to make notes and to plan their tasks. Made using react-native and expo.
+* **[mcp_database](https://github.com/Mortarion002/mcp_database)** - A mcp server that let's you query the database in natural language.
 * **[student-productivity-app-landingPage](https://github.com/Mortarion002/student-productivity-app-landingPage)** - A website for my Student Productivity App.
 * **[Hospital-management](https://github.com/Mortarion002/Hospital-management)** - A robust Hospital Management System built with Spring Boot, Data JPA, and PostgreSQL. Features secure JWT & OAuth2 authentication.
 * **[Inventory-Management](https://github.com/Mortarion002/Inventory-Management)** - Full-stack Inventory Management System built with Spring Boot & Angular. Features JWT authentication, role-based access, and interactive dashboards.
@@ -30,7 +31,6 @@ I'm an AI Engineer focused on designing intelligent, agentic workflows and advan
 * **[fast-api](https://github.com/Mortarion002/fast-api)** - Learning FastAPI by building a campaign management API with SQLModel.
 * **[tasks-nestJs](https://github.com/Mortarion002/tasks-nestJs)** - A simple backend api that manages task. Build using NestJs.
 * **[repo-mind](https://github.com/Mortarion002/repo-mind)** - AI-powered semantic search over GitHub repositories (README-level). Query in natural language and get curated, summarized repo cards.
-* **[mcp_database](https://github.com/Mortarion002/mcp_database)** - A mcp server that let's you query the database in natural language.
 * **[mock-mcp](https://github.com/Mortarion002/mock-mcp)** - A mock mcp tool to learn mcp architecture and lifecycle.
 * **[Sentiment_analysis](https://github.com/Mortarion002/Sentiment_analysis)** - Sentiment Analysis on IMDB dataset.
 * **[article-highlighter](https://github.com/Mortarion002/article-highlighter)** - An extension for highlighting text on web pages, adding notes, and exporting your research.
