@@ -43,7 +43,7 @@ I'm an AI Engineer focused on designing intelligent, agentic workflows and advan
 * **[todo-cli](https://github.com/Mortarion002/todo-cli)** - A todo app that runs in your cli. Written in golang.
 * **[joke-api](https://github.com/Mortarion002/joke-api)** - A simple and lightweight REST API built with Go that serves random programming jokes.
 * **[fetch-api](https://github.com/Mortarion002/fetch-api)** - A small Go HTTP server that fetches user data from an external API.
-* **[go-api-test-build](https://github.com/Mortarion002/go-api-test-build)** - A simple go that greets u.
+* **[go-api-test-build](https://github.com/Mortarion002/go-api-test-build)** - A simple golang api that greets u.
 * **[Modern-API-Build-Practise](https://github.com/Mortarion002/Modern-API-Build-Practise)** - API's i build to to match/learn the best practices of the industry.
 * **[LearnGithubActions](https://github.com/Mortarion002/LearnGithubActions)** - Learning MLOPs and CI/CD.
 * **[Drummusic](https://github.com/Mortarion002/Drummusic)** - A fun site to showcase your drumming skills to your friends.
