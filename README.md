@@ -6,6 +6,7 @@ I'm an AI Engineer focused on designing intelligent, agentic workflows and advan
 ---
 * **[Production-rag](https://github.com/Mortarion002/Production-rag)** - A self-correcting RAG system built with LangGraph, Langsmith and FastAPI that employs a "retrieve-grade-generate" workflow to ensure high-accuracy answers.
 * **[Subscription_A2A](https://github.com/Mortarion002/Subscription_A2A)** - A proof of concept to automate subscription cancellation.
+* **[Gig-Marketplace](https://github.com/Mortarion002/Gig-Marketplace)** - A full-stack distributed gig economy platform (like Uber/TaskRabbit) that connects customers with nearby providers in real-time using Redis geo-spatial routing, WebSockets, and an interactive OpenStreetMap. Built with Next.js, React Native (Expo), Node.js, PostgreSQL, Prisma, and Redis.
 * **[Terminal-History](https://github.com/Mortarion002/Terminal-History)** - VS Code extension that automatically captures and logs all your terminal command outputs.
 * **[Agentic-AI](https://github.com/Mortarion002/Agentic-AI)** - Advanced AI workflow via Vercel AI-SDK @v5.
 * **[Rag-Vercel](https://github.com/Mortarion002/Rag-Vercel)** - Rag Chatbot that stores data in a vector database and users can ask queries based on the data.
@@ -13,8 +14,10 @@ I'm an AI Engineer focused on designing intelligent, agentic workflows and advan
 
 ### All projects
 ---
+* **[Gig-Marketplace](https://github.com/Mortarion002/Gig-Marketplace)** - A full-stack distributed gig economy platform connecting customers with nearby service providers via real-time WebSockets and Redis geo-spatial indexing. Built with Next.js, React Native (Expo), Node.js/Express, PostgreSQL, Prisma, and Redis.
 * **[Agentic_AI-Langchain-Langgraph](https://github.com/Mortarion002/Agentic_AI-Langchain-Langgraph)** - Made using Langgraph and Langchain.
 * **[Langsmith-learn](https://github.com/Mortarion002/Langsmith-learn)** - Made to learn about LLM_OPS and LangSmith for monitoring, observability.
+* **[AI-Assisted-Task-Goal-Breaker](https://github.com/Mortarion002/AI-Assisted-Task-Goal-Breaker)** - A cross-platform productivity engine powered by Gemini AI that breaks overwhelming goals into sequential subtasks. Shared Next.js backend serves both a web dashboard and a React Native mobile app, with NeonDB, Prisma ORM, and Clerk auth.
 * **[student-productivity-app](https://github.com/Mortarion002/student-productivity-app)** - An all in one app for students to manage their expenses, to make notes and to plan their tasks. Made using react-native and expo.
 * **[mcp_database](https://github.com/Mortarion002/mcp_database)** - A mcp server that let's you query the database in natural language.
 * **[student-productivity-app-landingPage](https://github.com/Mortarion002/student-productivity-app-landingPage)** - A website for my Student Productivity App.
