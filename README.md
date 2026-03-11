@@ -5,12 +5,12 @@ I'm an AI Engineer focused on designing intelligent, agentic workflows and advan
 ### Featured Projects
 ---
 * **[Production-rag](https://github.com/Mortarion002/Production-rag)** - A self-correcting RAG system built with LangGraph, Langsmith and FastAPI that employs a "retrieve-grade-generate" workflow to ensure high-accuracy answers.
-* **[Subscription_A2A](https://github.com/Mortarion002/Subscription_A2A)** - A proof of concept to automate subscription cancellation.
+* **[Subscription_A2A](https://github.com/Mortarion002/Subscription_A2A)** - This project is a Proof of Concept (PoC) demonstrating autonomous Agent-to-Agent (A2A) communication to handle customer support tasks—specifically, cancelling a user's subscription and processing a prorated refund. It utilizes an event-driven micro-agent architecture where agents communicate directly to resolve user requests. 
 * **[Gig-Marketplace](https://github.com/Mortarion002/Gig-Marketplace)** - A full-stack distributed gig economy platform (like Uber/TaskRabbit) that connects customers with nearby providers in real-time using Redis geo-spatial routing, WebSockets, and an interactive OpenStreetMap. Built with Next.js, React Native (Expo), Node.js, PostgreSQL, Prisma, and Redis.
 * **[Terminal-History](https://github.com/Mortarion002/Terminal-History)** - VS Code extension that automatically captures and logs all your terminal command outputs.
-* **[Agentic-AI](https://github.com/Mortarion002/Agentic-AI)** - Advanced AI workflow via Vercel AI-SDK @v5.
+* **[Agentic-AI](https://github.com/Mortarion002/Agentic-AI)** - Advanced AI workflow via Vercel AI-SDK @v5. It serves as a central hub for interacting with various AI modalities—text, image, and voice—empowering users to leverage the full potential of Generative AI through a seamless user experience.
 * **[Rag-Vercel](https://github.com/Mortarion002/Rag-Vercel)** - Rag Chatbot that stores data in a vector database and users can ask queries based on the data.
-* **[music-sync](https://github.com/Mortarion002/music-sync)** - A Windows specific app that synchronises the playback of music in all the Windows devices it is running on.
+* **[music-sync](https://github.com/Mortarion002/music-sync)** -  Designed a distributed playback synchronization protocol from scratch – shipped as a cross-platform Electron - desktop app with a Node.js + WebSocket signaling server live on Railway and a Next.js landing page. Achieved near-zero latency sync via NTP-style clock alignment (5-sample median offset) and scheduled future-execution – all clients lock to a precise server timestamp eliminating jitter; adaptive playback rate keeps drift within ~50ms
 
 ### All projects
 ---
